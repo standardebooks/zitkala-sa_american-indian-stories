@@ -40,37 +40,44 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Shorts</meta>
+		<dc:description id="description">A collection of stories about Dakota Indians.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;American Indian Stories&lt;/i&gt; was the second story collection published by the Dakota author &lt;a href="https://standardebooks.org/ebooks/zitkala-sa"&gt;Zitkála-Šá&lt;/a&gt;. In contrast to her earlier collection &lt;a href="https://standardebooks.org/ebooks/zitkala-sa/old-indian-legends"&gt;&lt;i&gt;Old Indian Legends&lt;/i&gt;&lt;/a&gt;, which was a collection of traditional Dakota legends, &lt;i&gt;American Indian Stories&lt;/i&gt; is a collection of stories about contemporary Dakota life. Many center on the interactions and conflicts between Dakota and settler society, especially the challenges posed by the assimilationist Indian residential school system. The first few stories (through “Why I Am a Pagan”) are autobiographical in nature, drawing on Zitkála-Šá’s own experience as a student and then teacher in residential schools. Her story “The Softhearted Sioux” about a Sioux man’s loss of cultural and religious identity was even attacked by her employer at the Carlisle School, Richard Henry Pratt (the coiner of the infamous slogan “kill the Indian, save the man”), as “trash.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10376</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/americanindianst01zitk</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/American_Indian_Stories</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/zitkala-sa_american-indian-stories</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:creator id="author">Zitkála-Šá</dc:creator>
-		<meta property="file-as" refines="#author">CONTRIBUTOR_SORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="file-as" refines="#author">Zitkála-Šá</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Zitkala-Sa</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n85079758</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<dc:contributor id="artist">Antonio Zeno Shindler</dc:contributor>
+		<meta property="file-as" refines="#artist">Shindler, Antonio Zeno</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n91124278</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Juliet Sutherland</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Sutherland, Juliet</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">Brett Koonce</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Koonce, Brett</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#transcriber-3">https://en.wikipedia.org/wiki/Distributed_Proofreaders</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Cheng, Weijia</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.weijiarhymeswith.asia</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
