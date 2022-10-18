@@ -4,7 +4,10 @@
 header{
 	font-variant: small-caps;
 	margin: 1em;
-	text-align: center;
+}
+
+#americas-indian-problem div{
+	margin: 2em 0;
 }
 
 /* All epigraphs */
