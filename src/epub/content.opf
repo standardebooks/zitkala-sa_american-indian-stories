@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/zitkala-sa/american-indian-stories</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-10-18T17:22:32Z</dc:date>
+		<meta property="dcterms:modified">2022-10-18T17:22:32Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -44,13 +44,13 @@
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of stories about Dakota Indians.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;American Indian Stories&lt;/i&gt; was the second story collection published by the Dakota author &lt;a href="https://standardebooks.org/ebooks/zitkala-sa"&gt;Zitkála-Šá&lt;/a&gt;. In contrast to her earlier collection &lt;a href="https://standardebooks.org/ebooks/zitkala-sa/old-indian-legends"&gt;&lt;i&gt;Old Indian Legends&lt;/i&gt;&lt;/a&gt;, which was a collection of traditional Dakota legends, &lt;i&gt;American Indian Stories&lt;/i&gt; is a collection of stories about contemporary Dakota life. Many center on the interactions and conflicts between Dakota and settler society, especially the challenges posed by the assimilationist Indian residential school system. The first few stories (through “Why I Am a Pagan”) are autobiographical in nature, drawing on Zitkála-Šá’s own experience as a student and then teacher in residential schools. Her story “The Softhearted Sioux” about a Sioux man’s loss of cultural and religious identity was even attacked by her employer at the Carlisle School, Richard Henry Pratt (the coiner of the infamous slogan “kill the Indian, save the man”), as “trash.”&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;American Indian Stories&lt;/i&gt; is the second story collection by Dakota author &lt;a href="https://standardebooks.org/ebooks/zitkala-sa"&gt;Zitkála-Šá&lt;/a&gt;. In contrast to her earlier collection &lt;a href="https://standardebooks.org/ebooks/zitkala-sa/old-indian-legends"&gt;&lt;i&gt;Old Indian Legends&lt;/i&gt;&lt;/a&gt;, which is a collection of traditional Dakota legends, &lt;i&gt;American Indian Stories&lt;/i&gt; is a collection of stories about contemporary Dakota life. Many center on the interactions and conflicts between Dakota and settler society, especially the challenges posed by the assimilationist Indian residential school system. The first few stories (through “Why I Am a Pagan”) are autobiographical in nature, drawing on Zitkála-Šá’s own experience as a student and then teacher in residential schools. Her story “The Softhearted Sioux” about a Sioux man’s loss of cultural and religious identity was even attacked as “trash” by her employer at the Carlisle School, Richard Henry Pratt (the coiner of the infamous slogan “kill the Indian, save the man”).&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10376</dc:source>
 		<dc:source>https://archive.org/details/americanindianst01zitk</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">32285</meta>
+		<meta property="se:reading-ease.flesch">72.46</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/American_Indian_Stories</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/zitkala-sa_american-indian-stories</meta>
 		<meta property="se:is-a-collection">true</meta>
@@ -84,6 +84,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
