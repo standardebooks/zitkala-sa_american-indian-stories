@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="colophon.xhtml">
+		<ignore>
+			<code>t-064</code>
+			<reason>The painting name includes a proper name and is correctly titlecased.</reason>
+		</ignore>
+	</file>
+	<file path="epigraph.xhtml">
+		<ignore>
+			<code>t-011</code>
+			<reason>The printed epigraph has no closing period.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
