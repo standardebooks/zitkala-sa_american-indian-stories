@@ -49,7 +49,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10376</dc:source>
 		<dc:source>https://archive.org/details/americanindianst01zitk</dc:source>
-		<meta property="se:word-count">32285</meta>
+		<meta property="se:word-count">32287</meta>
 		<meta property="se:reading-ease.flesch">72.46</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/American_Indian_Stories</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/zitkala-sa_american-indian-stories</meta>
