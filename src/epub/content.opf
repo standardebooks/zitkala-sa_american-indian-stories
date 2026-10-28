@@ -66,6 +66,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Antonio Zeno Shindler</dc:contributor>
 		<meta property="file-as" refines="#artist">Shindler, Antonio Zeno</meta>
+		<link href="https://en.wikipedia.org/wiki/Antonio_Zeno_Shindler" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n91124278.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Juliet Sutherland</dc:contributor>
@@ -77,7 +78,6 @@
 		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
 		<link href="https://www.pgdp.net/" refines="#transcriber-3" rel="schema:url"/>
-		<link href="https://en.wikipedia.org/wiki/Distributed_Proofreaders" refines="#transcriber-3" rel="schema:sameAs"/>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Weijia Cheng</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cheng, Weijia</meta>
