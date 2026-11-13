@@ -60,7 +60,7 @@
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
 		<dc:creator id="author">Zitkála-Šá</dc:creator>
 		<meta property="file-as" refines="#author">Zitkála-Šá</meta>
-		<link href="https://en.wikipedia.org/wiki/Zitkala-Sa" refines="#author" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Zitkala-%C5%A0a" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n85079758.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
